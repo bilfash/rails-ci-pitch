@@ -23,3 +23,27 @@ Mas can you help me, this customer getting error
 ```
 
 ![](assets/error.png)
+
+#HSLIDE
+
+#### Review time
+
+![](assets/will.jpg)
+
+#HSLIDE
+
+What is
+#### Devops?
+
+#HSLIDE
+
+What hold us(engineer) deliver our features?
+
+#HSLIDE
+
+Analyze -> Code(unit test included) -> Deploy Staging -> Test -> Deploy Production
+
+#HSLIDE
+
+#### Simple? No!!
+
