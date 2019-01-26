@@ -47,3 +47,14 @@ Analyze -> Code(unit test included) -> Deploy Staging -> Test -> Deploy Producti
 
 #### Simple? No!!
 
+#HSLIDE
+
+- Red code on staging.
+- excuses on `it is working on my local env`
+- and other silly excuse
+
+#HSLIDE
+
+#### Gitlab CI CD
+![](assets/cicd.png)
+
