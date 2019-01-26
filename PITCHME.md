@@ -5,9 +5,9 @@
 #HSLIDE
 
 ### Hifnie Bilfash
-#### Graduated not long ago
-#### Graduated Gojek Engineering Bootcamp 2
-#### Gopay International Product Engineer
+###### Graduated not long ago
+###### Graduated Gojek Engineering Bootcamp 2
+###### Gopay International Product Engineer
 
 #HSLIDE
 
