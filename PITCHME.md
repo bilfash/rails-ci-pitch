@@ -7,6 +7,7 @@ Upscale by GOJEK
 ###### Graduated not long ago
 ###### Graduated Gojek Engineering Bootcamp 2
 ###### Gopay International Product Engineer
+![](assets/bootcamp.jpeg)
 
 #HSLIDE
 
