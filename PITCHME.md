@@ -4,14 +4,17 @@ Upscale by GOJEK
 
 #HSLIDE
 
-###### Graduated not long ago
-###### Graduated Gojek Engineering Bootcamp 2
-###### Gopay International Product Engineer
+- Graduated not long ago
+- Graduated Gojek Engineering Bootcamp 2
+- Gopay International Product Engineer
 ![](assets/bootcamp.jpeg)
 
 #HSLIDE
 
 #### Whats interesting from Gopay International
+
+#HSLIDE
+
 ```
 Mas, can you help me, this customer getting error bla bla bla bla bla bla
 ```
