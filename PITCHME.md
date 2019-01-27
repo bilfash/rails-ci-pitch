@@ -13,6 +13,8 @@ Upscale by GOJEK
 
 #### Whats interesting from Gopay International
 
+Part of Gojek History
+
 #HSLIDE
 
 ```
@@ -61,4 +63,4 @@ Analyze -> Code(unit test included) -> Deploy Staging -> Test -> Deploy Producti
 
 #### Gitlab CI CD
 ![](assets/cicd.png)
-
+[gitlab.com/blfsh/rails-ci](https://gitlab.com/blfsh/rails-ci)
