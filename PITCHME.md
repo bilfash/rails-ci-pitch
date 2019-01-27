@@ -63,4 +63,20 @@ Analyze -> Code(unit test included) -> Deploy Staging -> Test -> Deploy Producti
 
 #### Gitlab CI CD
 ![](assets/cicd.png)
+
+#HSLIDE
+```yaml
+image: jruby:9.1.6
+
+stages:
+  - a
+
+step_a:
+  stage: a
+  script:
+    - echo "hai"
+    
+```
+
+#HSLIDE
 [gitlab.com/blfsh/rails-ci](https://gitlab.com/blfsh/rails-ci)
